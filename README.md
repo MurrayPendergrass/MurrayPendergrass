@@ -2,14 +2,14 @@
 Thanks for visiting my GitHub account!
 
 # Contact
-Name: Murray Pendergrass 
+Name: Murray Pendergrass <br> 
 Email: [murraypendergrass0@gmail.com](mailto:murraypendergrass0@gmail.com)  
 Phone: (425) 903 - 6445
 
 # About Me
-* I am interested in making the world a healthier, more equitable place using data, statistics, and machine learning
-* I just graduated in June, 2021 from Eastern Washington University with an M.S. in applied math
+* I am interested in using actuarial science, data science, machine learning, and programming to add value to a team whose moral values align with my own
+* I graduated in 2018 from Western Washington University with an M.S. in Mathematics
 
 # More
-Check out my website 
+Check out my website <br>
 [https://MurrayPendergrass.github.io/](https://MurrayPendergrass.github.io/)
