@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome
+Thanks for visiting my GitHub account!
 
-<!--
-**MurrayPendergrass/MurrayPendergrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contact
+Name: Murray Pendergrass 
+Email: [murraypendergrass0@gmail.com](mailto:murraypendergrass0@gmail.com)  
+Phone: (425) 903 - 6445
 
-Here are some ideas to get you started:
+# About Me
+* I am interested in making the world a healthier, more equitable place using data, statistics, and machine learning
+* I just graduated in June, 2021 from Eastern Washington University with an M.S. in applied math
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# More
+Check out my website 
+[https://MurrayPendergrass.github.io/](https://MurrayPendergrass.github.io/)
