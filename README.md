@@ -1,5 +1,5 @@
 # Welcome
-Thanks for visiting my GitHub account!
+Thank you for visiting my GitHub account!
 
 # Contact
 Name: Murray Pendergrass <br> 
