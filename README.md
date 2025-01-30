@@ -7,7 +7,7 @@ Email: [murraypendergrass0@gmail.com](mailto:murraypendergrass0@gmail.com)
 Phone: (425) 903 - 6445
 
 # About Me
-* I am interested in using data science, machine learning, programming, and actuarial science to add value to a team whose values align with my own, and work on projects that I find engaging!
+* I am interested in using data science, machine learning, programming, and actuarial science to add value to a team whose values align with my own while working on projects that I find engaging!
 * I graduated in 2018 from Western Washington University with an M.S. in Mathematics. I studied advanced theoretical mathematics and did my thesis on sheaf cohomology.
 
 # More
